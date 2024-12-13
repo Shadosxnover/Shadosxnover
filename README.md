@@ -10,10 +10,7 @@ developer:
     - Problem Solving 🧩
 
 contacts:
-  email: mohamedrachid.elhouri@example.com
-  linkedin: https://www.linkedin.com/in/mohamedrachidelhouri/
-  website: https://mohamedrachidelhouri.vercel.app/
-  instagram: "@developerrachid"
+  linkedin: https://www.linkedin.com/in/mohamed-rachid-el-houri-1ab6a92b1/
 
 skills:
   programming_languages:
@@ -70,7 +67,7 @@ projects:
       - TailwindCSS
       - JavaScript
       - HTML5
-    link: [Mini-Games Hub](https://shadosxnover.github.io/Box-Mind-Game/)
+    link: [Mini-Games Hub](https://github.com/Shadosxnover/MiniGames-Hub)
   
   - name: "Mind Box Game"
     description: >
