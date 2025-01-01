@@ -56,36 +56,6 @@ experience:
       description: >
         Studying advanced frameworks like React.js, Laravel, and Three.js while learning Scrum methodologies. 
         Building real-world full-stack projects.
-
-projects:
-  - name: "Mini-Games Hub"
-    description: >
-      A collection of mini-games including Tic Tac Toe, Higher or Lower, and Typing Test.
-      Built with React and TailwindCSS, featuring reusable components, responsive design, and smooth state management.
-    technologies:
-      - React.js
-      - TailwindCSS
-      - JavaScript
-      - HTML5
-    link: [Mini-Games Hub](https://github.com/Shadosxnover/MiniGames-Hub)
-  
-  - name: "Mind Box Game"
-    description: >
-      A memory game where players repeat sequences of highlighted boxes with increasing difficulty.
-      Features dynamic sequence generation and responsive design.
-    technologies:
-      - React.js
-      - TailwindCSS
-      - JavaScript
-      - HTML5
-    link: [Mind Box Game](https://shadosxnover.github.io/Box-Mind-Game/)
-  
-  - name: "3D Dice Roller"
-    description: >
-      A fun 3D dice roller game built with React and Three.js, featuring realistic animations and interactive gameplay.
-    technologies:
-      - React.js
-      - TailwindCSS
       - JavaScript
       - Three.js
     link: [3D Dice Roller](https://shadosxnover.github.io/3D-Dice-Roll/)
