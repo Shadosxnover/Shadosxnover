@@ -1,11 +1,13 @@
 <div align="center">
 
 ```
-  __  __  ____  _    _    ___    __  __  ____  ____    ____     ___    ____  _    _  ___  ____ 
- |  \/  || __ )| |  | |  / _ \  |  \/  || ___||  _ \  |  _ \   / _ \  / ___|| |  | ||_ _||  _ \ 
- | |\/| ||  _ \| |__| | | | | | | |\/| ||___ \| |_) | | |_) | | | | || |    | |__| | | | | | | |
- | |  | || |_) |  __  | | |_| | | |  | | ___) |  _ <  |  _ <  | |_| || |___ |  __  | | | | |_| |
- |_|  |_||____/|_|  |_|  \___/  |_|  |_||____/|_| \_\ |_| \_\  \___/  \____||_|  |_||___||____/
+___  ___      _                              _  ______           _     _     _ 
+|  \/  |     | |                            | | | ___ \         | |   (_)   | |
+| .  . | ___ | |__   __ _ _ __ ___   ___  __| | | |_/ /__ _  ___| |__  _  __| |
+| |\/| |/ _ \| '_ \ / _` | '_ ` _ \ / _ \/ _` | |    // _` |/ __| '_ \| |/ _` |
+| |  | | (_) | | | | (_| | | | | | |  __/ (_| | | |\ \ (_| | (__| | | | | (_| |
+\_|  |_/\___/|_| |_|\__,_|_| |_| |_|\___|\__,_| \_| \_\__,_|\___|_| |_|_|\__,_|
+                                                                               
 ```
 <h3> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, I'm Mohamed Rachid! </h3>
 
@@ -42,10 +44,20 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> ***Top Languages & Streak*** <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadosxnover&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadosxnover&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-</div>
+  [![GitHub Streak](https://github-readme-streak-stats.entelecheia.me?user=Shadosxnover&theme=dracula)](https://git.io/streak-stats)
+  <br/>
+  <div align='center'>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&preferLogin=false">    <img  alt="hlnajz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Shadosxnover?cardType=level&theme=dracula&preferLogin=false" />  </a>
+  </div>
+  <div align='right'>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Shadosxnover&langs_count=12&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=,Roff"  height="292px"/></a>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> ***GitHub Trophies*** <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+
+|                                                                                     |
+|-------------------------------------------------------------------------------------|
+| ![Trophy](https://github-profile-trophy.vercel.app/?username=Shadosxnover&theme=dracula&no-frame=true&no-bg=true) |
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
